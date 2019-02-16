@@ -1,0 +1,54 @@
+2019-01-31 14:12:43,470 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 14:12:43,470 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 14:12:43,470 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 14:12:43,470 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 14:12:43,470 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 14:12:43,470 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:39:21,961 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:39:21,961 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:39:21,961 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:39:21,962 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:39:21,962 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:39:21,962 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:08,403 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:08,403 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:08,403 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:08,403 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:08,403 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:08,403 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:37,955 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:37,955 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:37,955 [INFO] Log:: Making request to VAS server .. pulling transaction records...
+2019-01-31 15:40:37,956 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:37,956 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 15:40:37,956 [INFO] url:http://127.0.0.1:4000/vas/get-vas-transactions
+2019-01-31 21:22:52,934 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:22:52,934 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:22:52,949 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:22:52,933 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:22:52,949 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:22:52,963 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:22:52,933 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:22:52,980 [WARNING] Not Found: /assets/img/debit_credit_card.png
+2019-01-31 21:22:52,963 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:22:52,980 [WARNING] Not Found: /assets/img/debit_credit_card.png
+2019-01-31 21:44:41,071 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:44:41,075 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:44:41,071 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:44:41,079 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:44:41,075 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:44:41,079 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:44:41,084 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:44:41,084 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:44:41,088 [WARNING] Not Found: /assets/img/debit_credit_card.png
+2019-01-31 21:44:41,088 [WARNING] Not Found: /assets/img/debit_credit_card.png
+2019-01-31 21:44:53,982 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:44:53,982 [WARNING] Not Found: /assets/img/glo_img.png
+2019-01-31 21:44:53,993 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:44:53,998 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:44:53,993 [WARNING] Not Found: /assets/img/etisalat_img.png
+2019-01-31 21:44:54,006 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:44:53,998 [WARNING] Not Found: /assets/img/credit_card_link.png
+2019-01-31 21:44:54,008 [WARNING] Not Found: /assets/img/debit_credit_card.png
+2019-01-31 21:44:54,006 [WARNING] Not Found: /assets/img/payvice_logob.png
+2019-01-31 21:44:54,008 [WARNING] Not Found: /assets/img/debit_credit_card.png
